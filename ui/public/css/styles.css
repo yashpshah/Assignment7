@@ -1,0 +1,12 @@
+select,input,NumInput, TextInput{
+      width:100px;
+      height:25px ;
+      margin: 20px;
+  }
+
+  label{
+    display: inline-block;
+    width: 100px;
+  }
+
+  
